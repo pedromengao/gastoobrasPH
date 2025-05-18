@@ -1,0 +1,10 @@
+{
+  "name": "projeto-telegram",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "n8n"
+  },
+  "dependencies": {
+    "n8n": "^1.36.1"
+  }
+}
